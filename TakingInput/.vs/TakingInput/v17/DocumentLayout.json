@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\TakingInput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843F12AE-E87F-4437-85C7-731A379DB29D}|TakingInput\\TakingInput.csproj|d:\\c#\\takinginput\\takinginput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843F12AE-E87F-4437-85C7-731A379DB29D}|TakingInput\\TakingInput.csproj|solutionrelative:takinginput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\TakingInput\\TakingInput\\Program.cs",
+              "RelativeDocumentMoniker": "TakingInput\\Program.cs",
+              "ToolTip": "D:\\C#\\TakingInput\\TakingInput\\Program.cs",
+              "RelativeToolTip": "TakingInput\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T05:02:39.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

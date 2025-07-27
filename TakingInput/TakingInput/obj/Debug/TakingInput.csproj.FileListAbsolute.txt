@@ -1,0 +1,8 @@
+D:\C#\TakingInput\TakingInput\bin\Debug\TakingInput.exe.config
+D:\C#\TakingInput\TakingInput\bin\Debug\TakingInput.exe
+D:\C#\TakingInput\TakingInput\bin\Debug\TakingInput.pdb
+D:\C#\TakingInput\TakingInput\obj\Debug\TakingInput.csproj.AssemblyReference.cache
+D:\C#\TakingInput\TakingInput\obj\Debug\TakingInput.csproj.CoreCompileInputs.cache
+D:\C#\TakingInput\TakingInput\obj\Debug\TakingInput.exe
+D:\C#\TakingInput\TakingInput\obj\Debug\TakingInput.pdb
+D:\C#\TakingInput\TakingInput\obj\Debug\TakingInput.exe.config

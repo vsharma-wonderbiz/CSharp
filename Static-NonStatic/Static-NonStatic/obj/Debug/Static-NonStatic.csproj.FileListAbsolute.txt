@@ -1,0 +1,8 @@
+D:\C#\Static-NonStatic\Static-NonStatic\bin\Debug\Static-NonStatic.exe.config
+D:\C#\Static-NonStatic\Static-NonStatic\bin\Debug\Static-NonStatic.exe
+D:\C#\Static-NonStatic\Static-NonStatic\bin\Debug\Static-NonStatic.pdb
+D:\C#\Static-NonStatic\Static-NonStatic\obj\Debug\Static-NonStatic.csproj.AssemblyReference.cache
+D:\C#\Static-NonStatic\Static-NonStatic\obj\Debug\Static-NonStatic.csproj.CoreCompileInputs.cache
+D:\C#\Static-NonStatic\Static-NonStatic\obj\Debug\Static-NonStatic.exe
+D:\C#\Static-NonStatic\Static-NonStatic\obj\Debug\Static-NonStatic.pdb
+D:\C#\Static-NonStatic\Static-NonStatic\obj\Debug\Static-NonStatic.exe.config

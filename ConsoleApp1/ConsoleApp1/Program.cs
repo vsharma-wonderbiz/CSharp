@@ -10,6 +10,18 @@ namespace ConsoleApp1
     internal class Program
     {
 
+        public static void OddOrEven(int n)
+        {
+            int reaminder = n % 2;
+            Console.WriteLine(reaminder);
+            Console.WriteLine("enter the value of a");
+            int a = Convert.ToInt32(Console.ReadLine());
+            n = a;
+            reaminder = n % 2;
+            Console.WriteLine(reaminder);
+
+        }
+
         static Boolean IsPalindrome(int n)
         {
             int lastdigit = 0;
@@ -89,10 +101,10 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("no not a plaindrome");
             }
-            
-
-            
-
+            Console.WriteLine("enter teh character value");
+            char ch2 = Convert.ToChar(Console.ReadLine());
+            Console.WriteLine(ch2);
+            OddOrEven(5);
 
         }
     }
