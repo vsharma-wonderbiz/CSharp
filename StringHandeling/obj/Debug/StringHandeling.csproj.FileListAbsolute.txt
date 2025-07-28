@@ -1,0 +1,7 @@
+C:\Users\Vinay Sharma\CSharp\StringHandeling\bin\Debug\StringHandeling.exe.config
+C:\Users\Vinay Sharma\CSharp\StringHandeling\bin\Debug\StringHandeling.exe
+C:\Users\Vinay Sharma\CSharp\StringHandeling\bin\Debug\StringHandeling.pdb
+C:\Users\Vinay Sharma\CSharp\StringHandeling\obj\Debug\StringHandeling.csproj.AssemblyReference.cache
+C:\Users\Vinay Sharma\CSharp\StringHandeling\obj\Debug\StringHandeling.csproj.CoreCompileInputs.cache
+C:\Users\Vinay Sharma\CSharp\StringHandeling\obj\Debug\StringHandeling.exe
+C:\Users\Vinay Sharma\CSharp\StringHandeling\obj\Debug\StringHandeling.pdb
