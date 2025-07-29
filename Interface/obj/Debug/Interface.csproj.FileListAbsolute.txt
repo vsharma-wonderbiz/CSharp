@@ -1,0 +1,7 @@
+C:\Users\Vinay Sharma\CSharp\Interface\bin\Debug\Interface.exe.config
+C:\Users\Vinay Sharma\CSharp\Interface\bin\Debug\Interface.exe
+C:\Users\Vinay Sharma\CSharp\Interface\bin\Debug\Interface.pdb
+C:\Users\Vinay Sharma\CSharp\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Vinay Sharma\CSharp\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vinay Sharma\CSharp\Interface\obj\Debug\Interface.exe
+C:\Users\Vinay Sharma\CSharp\Interface\obj\Debug\Interface.pdb

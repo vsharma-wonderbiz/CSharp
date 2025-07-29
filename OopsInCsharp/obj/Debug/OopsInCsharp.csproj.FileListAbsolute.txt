@@ -1,0 +1,7 @@
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\bin\Debug\OopsInCsharp.exe.config
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\bin\Debug\OopsInCsharp.exe
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\bin\Debug\OopsInCsharp.pdb
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\obj\Debug\OopsInCsharp.csproj.AssemblyReference.cache
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\obj\Debug\OopsInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\obj\Debug\OopsInCsharp.exe
+C:\Users\Vinay Sharma\CSharp\OopsInCsharp\obj\Debug\OopsInCsharp.pdb

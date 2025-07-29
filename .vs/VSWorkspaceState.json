@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Arrays",
+    "\\Dictionary",
+    "\\Exception-handling",
+    "\\Exception-handling\\obj\\Debug",
+    "\\Interface",
+    "\\OopsInCsharp",
+    "\\Struct"
   ],
-  "SelectedNode": "\\Arrays",
+  "SelectedNode": "\\Interface\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

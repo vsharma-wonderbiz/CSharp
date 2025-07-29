@@ -1,0 +1,7 @@
+C:\Users\Vinay Sharma\CSharp\Exception-handling\bin\Debug\Exception-handling.exe.config
+C:\Users\Vinay Sharma\CSharp\Exception-handling\bin\Debug\Exception-handling.exe
+C:\Users\Vinay Sharma\CSharp\Exception-handling\bin\Debug\Exception-handling.pdb
+C:\Users\Vinay Sharma\CSharp\Exception-handling\obj\Debug\Exception-handling.csproj.AssemblyReference.cache
+C:\Users\Vinay Sharma\CSharp\Exception-handling\obj\Debug\Exception-handling.csproj.CoreCompileInputs.cache
+C:\Users\Vinay Sharma\CSharp\Exception-handling\obj\Debug\Exception-handling.exe
+C:\Users\Vinay Sharma\CSharp\Exception-handling\obj\Debug\Exception-handling.pdb
