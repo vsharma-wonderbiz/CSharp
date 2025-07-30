@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4F5E-0AC0-4B77-949F-D1BF46AD4215}|Oops\\Oops.csproj|d:\\c#\\oops\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4F5E-0AC0-4B77-949F-D1BF46AD4215}|Oops\\Oops.csproj|solutionrelative:oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Oops\\Oops\\Program.cs",
+              "RelativeDocumentMoniker": "Oops\\Program.cs",
+              "ToolTip": "D:\\C#\\Oops\\Oops\\Program.cs",
+              "RelativeToolTip": "Oops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:02:36.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

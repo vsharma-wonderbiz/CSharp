@@ -1,0 +1,8 @@
+D:\C#\Ticket=Stimulator\obj\Debug\Ticket=Stimulator.csproj.AssemblyReference.cache
+D:\C#\Ticket=Stimulator\obj\Debug\Ticket=Stimulator.csproj.CoreCompileInputs.cache
+D:\C#\Ticket=Stimulator\obj\Debug\Ticket=Stimulator.exe
+D:\C#\Ticket=Stimulator\obj\Debug\Ticket=Stimulator.pdb
+D:\C#\Ticket=Stimulator\bin\Debug\Ticket=Stimulator.exe.config
+D:\C#\Ticket=Stimulator\bin\Debug\Ticket=Stimulator.exe
+D:\C#\Ticket=Stimulator\bin\Debug\Ticket=Stimulator.pdb
+D:\C#\Ticket=Stimulator\obj\Debug\Ticket=Stimulator.exe.config
